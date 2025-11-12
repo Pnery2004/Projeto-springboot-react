@@ -1,4 +1,4 @@
-package com.example.cardapio.controller.controller;
+package com.example.cardapio;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
